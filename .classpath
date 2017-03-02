@@ -41,8 +41,8 @@
 	<classpathentry kind="lib" path="/home/jv/Desktop/Selenium/Cucumber  JVM Libraries/cucumber-junit-1.2.5.jar"/>
 	<classpathentry kind="lib" path="/home/jv/Desktop/Selenium/Cucumber  JVM Libraries/cucumber-jvm-deps-1.0.5.jar"/>
 	<classpathentry kind="lib" path="/home/jv/Desktop/Selenium/Cucumber  JVM Libraries/cucumber-reporting-3.5.1.jar"/>
-	<classpathentry kind="lib" path="/home/jv/Desktop/Selenium/Cucumber  JVM Libraries/gherkin-4.0.0.jar"/>
 	<classpathentry kind="lib" path="/home/jv/Desktop/Selenium/Cucumber  JVM Libraries/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="/home/jv/Desktop/Selenium/Cucumber  JVM Libraries/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="/home/jv/Downloads/gherkin-2.12.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
