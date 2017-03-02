@@ -61,7 +61,7 @@ public class SeleniumTest {
         // Close the driver
 
         driver.quit();
-        System.out.println("I ranned perfectly");
+        System.out.println("I worked perfectly");
 
 	}
 
